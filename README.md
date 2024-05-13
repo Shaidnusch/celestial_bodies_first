@@ -35,11 +35,4 @@ If you are saving your progress on [freeCodeCamp.org](https://www.freecodecamp.o
 22. All columns named name should be of type `VARCHAR`.
 23. Each `primary key` column should follow the naming convention `table_name_id`. For example : the `moon` table should have a `primary key` column named `moon_id`.
 24. Each `foreign key` column should have the same name as the `column` it is referencing.
-
-## Result
-
-### Testing
-![Testing](testing.jpg)
-
-### Submission
 ![Submission](submission.jpg)
